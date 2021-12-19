@@ -1,1 +1,3 @@
 # smplfy-img
+
+Development continues :)
